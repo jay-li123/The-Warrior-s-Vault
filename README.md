@@ -39,7 +39,7 @@ The Warrior’s Vault is your digital stronghold — blending modern web technol
 
 ### 1. Clone the repository:
 ```
-git clone https://github.com/your-username/the-warriors-vault.git
+git clone https://github.com/jay-li123/The-Warrior-s-Vault.git
 ```
 
 ### 2. Create a .env file in the root:
