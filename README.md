@@ -37,14 +37,12 @@ The Warrior’s Vault is your digital stronghold — blending modern web technol
 
 ## 🔧 Setup
 
-1. Clone the repository:
-   ```
-   bash
-   git clone https://github.com/your-username/the-warriors-vault.git
-   cd the-warriors-vault
-   ```
+### 1. Clone the repository:
+```
+git clone https://github.com/your-username/the-warriors-vault.git
+```
 
-2. Create a .env file in the root:
+### 2. Create a .env file in the root:
   ```
   PORT=3000
   
@@ -57,12 +55,12 @@ The Warrior’s Vault is your digital stronghold — blending modern web technol
   ARCJET_ENV=development
   ```
 
-3. Run the API
+### 3. Run the API
   ```
   npm run dev
   ```
 
-4. Run the frontend
+### 4. Run the frontend
   ```
   cd frontend
   npm run dev
